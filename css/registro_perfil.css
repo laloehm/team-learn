@@ -1,0 +1,38 @@
+header {
+    margin: 10px;
+}
+
+input{
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: 2px solid #11ddf3;
+    width: 400px;
+    height: 40px;
+}
+
+
+.contenido{
+    display: flex;
+}
+.form{
+    margin-left: 20%;
+    margin-top: 40px;
+}
+
+#Enviar{
+    border-style: none;
+}
+
+aside{
+    text-align: center;
+    color: #11ddf3;
+    margin-left: 50px;
+}
+
+hr{
+    background-color: #11ddf3;
+    height: 5px;
+    width: 600px;
+    margin-left: -100px;
+}
